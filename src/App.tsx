@@ -15,7 +15,7 @@ function App() {
           <br/>
           <input type='password' id='password' placeholder='Password'/>
         </form>
-          <button>LOG IN testing</button>
+          <button>LOG IN</button>
       </div>
     </>
   )
