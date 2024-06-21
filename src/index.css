@@ -27,3 +27,17 @@ h1 {
   text-align: center;
   color:black;
 }
+
+p {
+  color:black;
+}
+
+a {
+  color:black;
+}
+
+.link {
+  color:#2B8EAD;
+  text-decoration: underline;
+  font-style: italic;
+}

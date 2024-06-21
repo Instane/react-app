@@ -1,7 +1,7 @@
 #root {
   max-width: 19280px;
   margin: auto;
-  padding: 40px;
+  padding: 5%;
   margin-top: 0em;
 }
 
@@ -18,11 +18,12 @@ input {
   border-style:solid;
   color:black;
   border-radius:10px;
-  min-width:15rem;
-  min-height:2rem;
+  width: 18rem;
+  height:2rem;
   padding-left:1rem;
   font-size:1.2em;
-  margin-bottom: 5px;
+  margin: auto;
+  box-shadow: 3px 5px 5px 0px  rgb(211, 211, 211);
 }
 
 input:hover {
@@ -30,7 +31,6 @@ input:hover {
 }
 
 input:focus {
-  background-color:rgb(238, 238, 238);
   outline:none;
 }
 
@@ -40,14 +40,18 @@ button {
   border: none;
   color:black;
   border-radius:5px;
-  width: 5rem;
-  height: 1.5rem;
+  width: 6rem;
+  height: 2rem;
+  margin: 15% 35%;
+  font-size: 18px;
+  box-shadow: 3px 5px 5px 0px  rgb(211, 211, 211);
 }
 
 button:hover {
-  background-color:#e6cc70;
+  background-color:#ddc46b;
+  cursor:pointer;
 }
 
-button:focus {
-  outline:none;
+.signuptext {
+  text-align: center;
 }
