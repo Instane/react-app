@@ -1,12 +1,11 @@
-import './App.css'
+import "./App.css";
 
-function Register() {
+const Register = () => {
+  return (
+    <div class="blockdisplay">
+      <h1> Register Page </h1>
+    </div>
+  );
+};
 
-    return (
-        <>
-        
-        </>
-    )
-}
-
-export default Register
+export default Register;

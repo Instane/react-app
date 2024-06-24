@@ -2,7 +2,7 @@
   max-width: 19280px;
   margin: auto;
   padding: 5%;
-  margin-top: 0em;
+  vertical-align:middle;
 }
 
 img {
@@ -22,7 +22,7 @@ input {
   height:2rem;
   padding-left:1rem;
   font-size:1.2em;
-  margin: auto;
+  margin: 5px auto;
   box-shadow: 3px 5px 5px 0px  rgb(211, 211, 211);
 }
 
@@ -43,7 +43,7 @@ button {
   width: 6rem;
   height: 2rem;
   margin: 15% 35%;
-  font-size: 18px;
+  font-size: 15px;
   box-shadow: 3px 5px 5px 0px  rgb(211, 211, 211);
 }
 

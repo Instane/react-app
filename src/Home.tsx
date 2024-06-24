@@ -1,12 +1,11 @@
-import './App.css'
+import "./App.css";
 
-function Home() {
+const Home = () => {
+  return (
+    <>
+      <h2>test</h2>
+    </>
+  );
+};
 
-    return (
-        <>
-        
-        </>
-    )
-}
-
-export default Home
+export default Home;
