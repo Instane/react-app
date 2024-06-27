@@ -1,0 +1,35 @@
+#root {
+    max-width: 1980px;
+    margin: auto;
+    height: 45rem;
+  }
+
+img {
+  display: flex;
+  margin: auto;
+  margin-right: 1em;
+}
+
+.inline {
+    display:inline-flex;
+    margin-right:4rem;
+}
+
+.header {
+  margin-top: 2em;
+  font-size: 25px;
+}
+
+.subhead {
+  margin-top: -1.5em;
+}
+
+.datablocks {
+  background-color:#EBD071;
+  resize: auto;
+  border-radius: 10px;
+  max-width:fit-content;
+  max-height:fit-content;
+  padding: 0.5% 5% 0.5% 5%;
+  margin-top: 2em;
+}
