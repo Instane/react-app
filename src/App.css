@@ -43,7 +43,11 @@ button {
   border-radius:10px;
   width: 6rem;
   height: 2.2rem;
+<<<<<<< HEAD
   margin: 15% 35% 10%;
+=======
+  margin: 15% 35%;
+>>>>>>> 5889b6263e09a3e8440c7550a776f14ba5a204ec
   font-size: 15px;
   box-shadow: 3px 5px 5px 0px  rgb(211, 211, 211);
 }
@@ -55,6 +59,7 @@ button:hover {
 
 .register {
   width:8rem;
+<<<<<<< HEAD
   margin: 15% 30% 10%;
 }
 
@@ -67,3 +72,13 @@ button:hover {
   filter: invert(100%);
 }
 
+=======
+  margin: 15% 30%;
+}
+
+.signuptext {
+  margin-top: 5%;
+  text-align: center;
+}
+
+>>>>>>> 5889b6263e09a3e8440c7550a776f14ba5a204ec

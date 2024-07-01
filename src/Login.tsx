@@ -13,11 +13,11 @@ const Login = () => {
           <br />
           <input type="text" id="username" placeholder="Username" />
           <br />
-          <input type="password" id="password" placeholder="Password" />
-        </form>
-        <Link to="/home">
+          <input type="password" id="password" placeholder="Password" /><img class='forpass' src='./src/images/showeye.png' />
+        </form>  
+          <Link to="/home">
           <button>LOG IN</button>
-        </Link>
+          </Link>
       </div>
       <div class="signuptext">
         <p>Don't have an account?</p>
